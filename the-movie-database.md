@@ -62,7 +62,7 @@ Caso utilize Laravel:
 
 ## Detalhes da avalição
 
-Crie um repositório público em seu github e envie para o e-mail: lucas.fullstack.dev@gmail.com
+Crie um repositório público em seu github e envie para o e-mail: dev@facedigital.com.br
 
 Duração: 3 dias
 Avaliaremos (não necessariamente nesta ordem):
